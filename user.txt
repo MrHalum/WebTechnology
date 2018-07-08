@@ -1,0 +1,15 @@
+Apply in : Bangladesh
+ Passport type Diplomatic
+ Name of Applicant :   as
+ Surname :   as
+ Gender :   Male
+ Nationality :   Malaysia
+ Date of Birth :   2/2/2222
+ Fathers name :   as
+ Mother`sname :   as
+ Birth ID :   12as
+ Present Address :   as,as,2,2,2
+ Present Address :   as,as,2,2,2
+ Email :   as@as.comAmount : 1200
+ Date of Payment 2/2/2222
+ Receipt no :   1234
