@@ -1,20 +1,28 @@
-<?php include('count.php');
+<?php include('server.php');
 error_reporting(0);
 ?>
 <!DOCTYPE html>
 <html>
-<head><b><center><h1 style="Color:red">Character Counter</h1></center></b></head>
+<head>
+    
+    
+    <title>Registration</title>
+    
+</head>
 <body>
     <form style="text-align:center"  method='post' action='login.php'>
+        <label>Name</label>
         
+        <input type='text' name='username'><br><br>
         
-        <input name="OfficeNo" type="text" value='<?php echo $OfficeNo; ?>' ><br><br>
-        
-        
+        <label>Password</label>
+        <input type='text' name='password'><br>
        
-        <button type='submit' name='main'>Count</button> 
+        <button type='submit' name='login'>Log In</button> 
     </form>
-    
+    <p style="text-align:center">
+    <a href='register.php'>Sign Up</a>
+    </p>
 
 
 
